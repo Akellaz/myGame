@@ -4,7 +4,7 @@ using namespace sf;
 int main() {
 
 
-RenderWindow window(VideoMode(640, 480), "Hello, world!");
+RenderWindow window(VideoMode(640, 480), "Hello, worlds!");
 
 Texture heroTexture;
 heroTexture.loadFromFile("images/hero.png");
